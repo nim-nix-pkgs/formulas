@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://gitea.com/thisago/formulas.nim",
   "refs": [
-    "fatal: unable to access 'https://gitea.com/thisago/formulas.nim/': Could not resolve host: gitea.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "formulas",
+      "version": "0.1.0",
+      "author": "Thisago",
+      "desc": "Mathematical formulas",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
