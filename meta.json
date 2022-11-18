@@ -13,7 +13,7 @@
   "heads": [
     {
       "name": "formulas",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": "Thisago",
       "desc": "Mathematical formulas",
       "license": "MIT",
